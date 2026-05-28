@@ -1,0 +1,5 @@
+Model,Summary Type,Accuracy
+Logistic Regression,Final Summary (Unified),0.8316357100059916
+Random Forest,Final Summary (Unified),0.8436189334931097
+SVM,Final Summary (Unified),0.8490113840623128
+Naïve Bayes,Final Summary (Unified),0.6626722588376274
